@@ -8,3 +8,6 @@
 
 5. Create Groups
 
+6. Adding video call 
+
+7. Adding audio call 
