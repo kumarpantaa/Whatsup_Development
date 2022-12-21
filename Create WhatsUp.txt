@@ -1,0 +1,10 @@
+1. Create Home 
+
+2. Profile Page 
+
+3. Chat Page 
+
+4. Group Chat Page 
+
+5. Create Groups
+
